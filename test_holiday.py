@@ -1,6 +1,8 @@
 from holiday import isHoliday
 import datetime
 
+#test manuale
+
 def test_isHoliday():
 
     date = datetime.date(2022, 12, 25)
